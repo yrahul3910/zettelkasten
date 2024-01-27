@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "6158d71302ccbf9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a86770bd4d95d6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78fbbf14c5e10c2d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9877e3c7260eeb81",
+    "type": "split",
+    "children": [
+      {
+        "id": "c203e3f957445622",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaeb663db137f7c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33b543ed0f6c5ef4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7939f07979a710c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "136ee1fe654b3cb0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b618793ebf6f422",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6a9d2ab7f0648f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a816b28c6d530d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75458ee564e07a3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96b891c4a78ef87d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b22b1d07f68ea71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "dce779f0c2e04dcb",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "78fbbf14c5e10c2d",
+  "lastOpenFiles": [
+    "Flat minima and generalization.md",
+    "img/epigraph.png",
+    "SMOOTHIE.md",
+    "HPO.md",
+    "Basics of convex analysis.md",
+    "Quasiconvex functions.md",
+    "Properties of conjugates of convex functions.md",
+    "Better data preprocessing.md",
+    "l1/Convex sets and convex functions.md",
+    "l1/Convexity-preserving operations.md",
+    "l1",
+    "Reading notes/@bubeckConvexOptimizationAlgorithms2015.md",
+    "files/ift-6085-lecture-2-notes.pdf",
+    "TOC.md",
+    "atoms/Hessian.md",
+    "files/ift-6085-lecture-3-notes.pdf",
+    "atoms/Sublevel sets.md",
+    "pages/contents.md",
+    "files/smoothness-def.pdf",
+    "atoms/Lipschitz continuity.md",
+    "logseq/custom.css",
+    "pages",
+    "logseq/config.edn",
+    "journals",
+    "logseq",
+    "Untitled.canvas",
+    "atoms/Epigraph.md",
+    "atoms/Subgradients.md",
+    "atoms/beta-smoothness.md",
+    "citations.bib",
+    "20230419232933.md",
+    "img/epigraph.md"
+  ]
+}
